@@ -1,6 +1,6 @@
 # case sample test
 
-このリポジトリをクローンすると、ファイルが勝手に変更されてしまうよ。
+大文字小文字を区別しないOSでこのリポジトリをクローンすると、ファイルが勝手に変更されてしまうよ。
 
 ```shell
 git clone https://github.com/kamataryo/case-sample-test.git
